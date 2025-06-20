@@ -3,3 +3,4 @@ dist/
 *.pyc
 *.log
 build/
+.pytest_cache/
