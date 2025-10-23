@@ -23,3 +23,4 @@ Notes and usage details for intellij-platform-git-stats-plugin.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
