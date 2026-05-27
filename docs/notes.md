@@ -45,3 +45,4 @@ Notes and usage details for intellij-platform-git-stats-plugin.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
