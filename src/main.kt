@@ -44,3 +44,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // match the style used in the rest of the module
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// clarify the control flow
