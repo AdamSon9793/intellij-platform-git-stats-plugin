@@ -52,3 +52,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
