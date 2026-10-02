@@ -59,3 +59,4 @@ Notes and usage details for intellij-platform-git-stats-plugin.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
