@@ -56,3 +56,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // avoid re-reading the config on every call
 // clarify the control flow
 // match the style used in the rest of the module
+// clarify the control flow
